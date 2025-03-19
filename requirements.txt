@@ -1,0 +1,5 @@
+# Python dependencies
+nuke-python-stubs
+pytest
+
+PyQt5~=5.15.11

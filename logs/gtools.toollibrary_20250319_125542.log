@@ -1,0 +1,59 @@
+2025-03-19 12:55:42,108 - GTools.ToolLibrary - INFO - Logging initialized for GTools.ToolLibrary
+2025-03-19 12:55:42,109 - GTools.ToolLibrary - INFO - Log file: C:\Users\gmorin\.nuke\GTools_p3\logs\gtools.toollibrary_20250319_125542.log
+2025-03-19 12:55:42,125 - GTools.ToolLibrary - INFO - Library loaded with 0 tools and 0 toolsets
+2025-03-19 12:55:42,126 - GTools.ToolLibrary - WARNING - No tools found in library - will populate with defaults
+2025-03-19 12:55:42,127 - GTools.ToolLibrary - WARNING - POPULATING DEFAULT TOOLS - LIBRARY WAS EMPTY
+2025-03-19 12:55:42,128 - GTools.ToolLibrary - INFO - Creating toolset: Default (ID: f7dfab93-c1e1-4e19-b481-66cd03a1c7ae)
+2025-03-19 12:55:42,132 - GTools.ToolLibrary - INFO - Creating toolset: File (ID: ca221c02-15bd-4ee6-95cc-d08364baa3d3)
+2025-03-19 12:55:42,135 - GTools.ToolLibrary - INFO - Creating toolset: Node (ID: 9f25d7c6-c7a3-4aa7-8637-101d842c7a40)
+2025-03-19 12:55:42,139 - GTools.ToolLibrary - INFO - Created default toolsets: {'Default': 'f7dfab93-c1e1-4e19-b481-66cd03a1c7ae', 'File': 'ca221c02-15bd-4ee6-95cc-d08364baa3d3', 'Node': '9f25d7c6-c7a3-4aa7-8637-101d842c7a40'}
+2025-03-19 12:55:42,142 - GTools.ToolLibrary - INFO - Adding tool to library: Open Script Directory (ID: b498a2f2-415d-4ca8-999e-e0ba2ae3c8ae)
+2025-03-19 12:55:42,146 - GTools.ToolLibrary - INFO - Adding tool b498a2f2-415d-4ca8-999e-e0ba2ae3c8ae to toolset ca221c02-15bd-4ee6-95cc-d08364baa3d3
+2025-03-19 12:55:42,147 - GTools.ToolLibrary - INFO - Added tool b498a2f2-415d-4ca8-999e-e0ba2ae3c8ae to toolset File
+2025-03-19 12:55:42,152 - GTools.ToolLibrary - INFO - Adding tool to library: Align X (ID: 8d5092b2-9127-4b16-9531-040f25299f1f)
+2025-03-19 12:55:42,157 - GTools.ToolLibrary - INFO - Adding tool 8d5092b2-9127-4b16-9531-040f25299f1f to toolset f7dfab93-c1e1-4e19-b481-66cd03a1c7ae
+2025-03-19 12:55:42,158 - GTools.ToolLibrary - INFO - Added tool 8d5092b2-9127-4b16-9531-040f25299f1f to toolset Default
+2025-03-19 12:55:42,163 - GTools.ToolLibrary - INFO - Adding tool to library: Align Y (ID: d869f701-0a60-40c1-b02b-3a48e5b2688f)
+2025-03-19 12:55:42,167 - GTools.ToolLibrary - INFO - Adding tool d869f701-0a60-40c1-b02b-3a48e5b2688f to toolset f7dfab93-c1e1-4e19-b481-66cd03a1c7ae
+2025-03-19 12:55:42,168 - GTools.ToolLibrary - INFO - Added tool d869f701-0a60-40c1-b02b-3a48e5b2688f to toolset Default
+2025-03-19 12:55:42,174 - GTools.ToolLibrary - INFO - Adding tool to library: Enable Postage Stamp (ID: a817bd25-bea1-4463-add9-a77caed5a243)
+2025-03-19 12:55:42,177 - GTools.ToolLibrary - INFO - Adding tool a817bd25-bea1-4463-add9-a77caed5a243 to toolset f7dfab93-c1e1-4e19-b481-66cd03a1c7ae
+2025-03-19 12:55:42,178 - GTools.ToolLibrary - INFO - Added tool a817bd25-bea1-4463-add9-a77caed5a243 to toolset Default
+2025-03-19 12:55:42,183 - GTools.ToolLibrary - INFO - Adding tool to library: Disable Postage Stamp (ID: e9df55e4-0de3-4bcf-8aa1-f84b984412e2)
+2025-03-19 12:55:42,187 - GTools.ToolLibrary - INFO - Adding tool e9df55e4-0de3-4bcf-8aa1-f84b984412e2 to toolset f7dfab93-c1e1-4e19-b481-66cd03a1c7ae
+2025-03-19 12:55:42,188 - GTools.ToolLibrary - INFO - Added tool e9df55e4-0de3-4bcf-8aa1-f84b984412e2 to toolset Default
+2025-03-19 12:55:42,193 - GTools.ToolLibrary - INFO - Adding tool to library: Split Frequencies (ID: 79eb38ae-7436-4881-82af-0a9c211d8b30)
+2025-03-19 12:55:42,197 - GTools.ToolLibrary - INFO - Adding tool 79eb38ae-7436-4881-82af-0a9c211d8b30 to toolset f7dfab93-c1e1-4e19-b481-66cd03a1c7ae
+2025-03-19 12:55:42,198 - GTools.ToolLibrary - INFO - Added tool 79eb38ae-7436-4881-82af-0a9c211d8b30 to toolset Default
+2025-03-19 12:55:42,204 - GTools.ToolLibrary - INFO - Adding tool to library: Red Constant (ID: 130e1a75-5436-4f36-b7b7-525476f971c0)
+2025-03-19 12:55:42,208 - GTools.ToolLibrary - INFO - Adding tool 130e1a75-5436-4f36-b7b7-525476f971c0 to toolset 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 12:55:42,209 - GTools.ToolLibrary - INFO - Added tool 130e1a75-5436-4f36-b7b7-525476f971c0 to toolset Node
+2025-03-19 12:55:42,214 - GTools.ToolLibrary - INFO - Adding tool to library: Green Constant (ID: 4b481f76-013b-46af-a81b-204539cba4be)
+2025-03-19 12:55:42,219 - GTools.ToolLibrary - INFO - Adding tool 4b481f76-013b-46af-a81b-204539cba4be to toolset 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 12:55:42,220 - GTools.ToolLibrary - INFO - Added tool 4b481f76-013b-46af-a81b-204539cba4be to toolset Node
+2025-03-19 12:55:42,225 - GTools.ToolLibrary - INFO - Adding tool to library: Blue Constant (ID: 7cf0705a-3d87-494a-9366-56af1c1fa41f)
+2025-03-19 12:55:42,230 - GTools.ToolLibrary - INFO - Adding tool 7cf0705a-3d87-494a-9366-56af1c1fa41f to toolset 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 12:55:42,231 - GTools.ToolLibrary - INFO - Added tool 7cf0705a-3d87-494a-9366-56af1c1fa41f to toolset Node
+2025-03-19 12:55:42,239 - GTools.ToolLibrary - INFO - Adding tool to library: Grey Constant (ID: 3df553dc-4762-4b65-9f57-b56d663a5210)
+2025-03-19 12:55:42,243 - GTools.ToolLibrary - INFO - Adding tool 3df553dc-4762-4b65-9f57-b56d663a5210 to toolset 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 12:55:42,244 - GTools.ToolLibrary - INFO - Added tool 3df553dc-4762-4b65-9f57-b56d663a5210 to toolset Node
+2025-03-19 12:55:42,249 - GTools.ToolLibrary - INFO - Adding tool to library: Alpha Constant (ID: f8e31356-5036-46ea-82a2-b1b967f037a8)
+2025-03-19 12:55:42,257 - GTools.ToolLibrary - INFO - Adding tool f8e31356-5036-46ea-82a2-b1b967f037a8 to toolset 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 12:55:42,257 - GTools.ToolLibrary - INFO - Added tool f8e31356-5036-46ea-82a2-b1b967f037a8 to toolset Node
+2025-03-19 12:55:42,264 - GTools.ToolLibrary - INFO - Adding tool to library: Checkerboard (ID: dd0acf8d-be93-4fb0-a92d-8e1db735d217)
+2025-03-19 12:55:42,271 - GTools.ToolLibrary - INFO - Adding tool dd0acf8d-be93-4fb0-a92d-8e1db735d217 to toolset 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 12:55:42,272 - GTools.ToolLibrary - INFO - Added tool dd0acf8d-be93-4fb0-a92d-8e1db735d217 to toolset Node
+2025-03-19 12:55:42,277 - GTools.ToolLibrary - INFO - Adding tool to library: Random Constant (ID: 347c7317-78da-469b-a3d2-59927266525c)
+2025-03-19 12:55:42,284 - GTools.ToolLibrary - INFO - Adding tool 347c7317-78da-469b-a3d2-59927266525c to toolset 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 12:55:42,285 - GTools.ToolLibrary - INFO - Added tool 347c7317-78da-469b-a3d2-59927266525c to toolset Node
+2025-03-19 12:55:42,289 - GTools.ToolLibrary - INFO - Successfully added 13 default tools
+2025-03-19 12:55:42,295 - GTools.ToolLibrary - DEBUG - Retrieving toolsets. Total count: 3
+2025-03-19 12:55:42,296 - GTools.ToolLibrary - DEBUG - Toolset ID: f7dfab93-c1e1-4e19-b481-66cd03a1c7ae
+2025-03-19 12:55:42,299 - GTools.ToolLibrary - DEBUG - Toolset Name: Default
+2025-03-19 12:55:42,301 - GTools.ToolLibrary - DEBUG - Tools in toolset: ['8d5092b2-9127-4b16-9531-040f25299f1f', 'd869f701-0a60-40c1-b02b-3a48e5b2688f', 'a817bd25-bea1-4463-add9-a77caed5a243', 'e9df55e4-0de3-4bcf-8aa1-f84b984412e2', '79eb38ae-7436-4881-82af-0a9c211d8b30']
+2025-03-19 12:55:42,302 - GTools.ToolLibrary - DEBUG - Toolset ID: ca221c02-15bd-4ee6-95cc-d08364baa3d3
+2025-03-19 12:55:42,303 - GTools.ToolLibrary - DEBUG - Toolset Name: File
+2025-03-19 12:55:42,303 - GTools.ToolLibrary - DEBUG - Tools in toolset: ['b498a2f2-415d-4ca8-999e-e0ba2ae3c8ae']
+2025-03-19 12:55:42,304 - GTools.ToolLibrary - DEBUG - Toolset ID: 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 12:55:42,305 - GTools.ToolLibrary - DEBUG - Toolset Name: Node
+2025-03-19 12:55:42,306 - GTools.ToolLibrary - DEBUG - Tools in toolset: ['130e1a75-5436-4f36-b7b7-525476f971c0', '4b481f76-013b-46af-a81b-204539cba4be', '7cf0705a-3d87-494a-9366-56af1c1fa41f', '3df553dc-4762-4b65-9f57-b56d663a5210', 'f8e31356-5036-46ea-82a2-b1b967f037a8', 'dd0acf8d-be93-4fb0-a92d-8e1db735d217', '347c7317-78da-469b-a3d2-59927266525c']

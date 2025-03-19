@@ -1,0 +1,167 @@
+{
+    "available_tools": {
+        "b498a2f2-415d-4ca8-999e-e0ba2ae3c8ae": {
+            "id": "b498a2f2-415d-4ca8-999e-e0ba2ae3c8ae",
+            "name": "Open Script Directory",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.file_ops",
+            "function_name": "open_current_nuke_script_dir",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "8d5092b2-9127-4b16-9531-040f25299f1f": {
+            "id": "8d5092b2-9127-4b16-9531-040f25299f1f",
+            "name": "Align X",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.node_arrangement",
+            "function_name": "align_x_pos",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "d869f701-0a60-40c1-b02b-3a48e5b2688f": {
+            "id": "d869f701-0a60-40c1-b02b-3a48e5b2688f",
+            "name": "Align Y",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.node_arrangement",
+            "function_name": "align_y_pos",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "a817bd25-bea1-4463-add9-a77caed5a243": {
+            "id": "a817bd25-bea1-4463-add9-a77caed5a243",
+            "name": "Enable Postage Stamp",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.node_arrangement",
+            "function_name": "enable_postage_stamp",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "e9df55e4-0de3-4bcf-8aa1-f84b984412e2": {
+            "id": "e9df55e4-0de3-4bcf-8aa1-f84b984412e2",
+            "name": "Disable Postage Stamp",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.node_arrangement",
+            "function_name": "disable_postage_stamp",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "79eb38ae-7436-4881-82af-0a9c211d8b30": {
+            "id": "79eb38ae-7436-4881-82af-0a9c211d8b30",
+            "name": "Split Frequencies",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.channel_utils",
+            "function_name": "split_frequencies_from_selected_node",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "130e1a75-5436-4f36-b7b7-525476f971c0": {
+            "id": "130e1a75-5436-4f36-b7b7-525476f971c0",
+            "name": "Red Constant",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.channel_utils",
+            "function_name": "red_constant",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "4b481f76-013b-46af-a81b-204539cba4be": {
+            "id": "4b481f76-013b-46af-a81b-204539cba4be",
+            "name": "Green Constant",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.channel_utils",
+            "function_name": "green_constant",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "7cf0705a-3d87-494a-9366-56af1c1fa41f": {
+            "id": "7cf0705a-3d87-494a-9366-56af1c1fa41f",
+            "name": "Blue Constant",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.channel_utils",
+            "function_name": "blue_constant",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "3df553dc-4762-4b65-9f57-b56d663a5210": {
+            "id": "3df553dc-4762-4b65-9f57-b56d663a5210",
+            "name": "Grey Constant",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.channel_utils",
+            "function_name": "grey_constant",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "f8e31356-5036-46ea-82a2-b1b967f037a8": {
+            "id": "f8e31356-5036-46ea-82a2-b1b967f037a8",
+            "name": "Alpha Constant",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.channel_utils",
+            "function_name": "alpha_constant",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "dd0acf8d-be93-4fb0-a92d-8e1db735d217": {
+            "id": "dd0acf8d-be93-4fb0-a92d-8e1db735d217",
+            "name": "Checkerboard",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.channel_utils",
+            "function_name": "create_checkerboard",
+            "is_favorite": false,
+            "color": "#333333"
+        },
+        "347c7317-78da-469b-a3d2-59927266525c": {
+            "id": "347c7317-78da-469b-a3d2-59927266525c",
+            "name": "Random Constant",
+            "script": null,
+            "icon": null,
+            "module_path": "src.functions.effects",
+            "function_name": "random_primary_color",
+            "is_favorite": false,
+            "color": "#333333"
+        }
+    },
+    "toolsets": {
+        "f7dfab93-c1e1-4e19-b481-66cd03a1c7ae": {
+            "name": "Default",
+            "tools": [
+                "8d5092b2-9127-4b16-9531-040f25299f1f",
+                "d869f701-0a60-40c1-b02b-3a48e5b2688f",
+                "a817bd25-bea1-4463-add9-a77caed5a243",
+                "e9df55e4-0de3-4bcf-8aa1-f84b984412e2",
+                "79eb38ae-7436-4881-82af-0a9c211d8b30"
+            ],
+            "created_at": "2025-03-19T12:55:42.129247"
+        },
+        "ca221c02-15bd-4ee6-95cc-d08364baa3d3": {
+            "name": "File",
+            "tools": [
+                "b498a2f2-415d-4ca8-999e-e0ba2ae3c8ae"
+            ],
+            "created_at": "2025-03-19T12:55:42.133248"
+        },
+        "9f25d7c6-c7a3-4aa7-8637-101d842c7a40": {
+            "name": "Node",
+            "tools": [
+                "130e1a75-5436-4f36-b7b7-525476f971c0",
+                "4b481f76-013b-46af-a81b-204539cba4be",
+                "7cf0705a-3d87-494a-9366-56af1c1fa41f",
+                "3df553dc-4762-4b65-9f57-b56d663a5210",
+                "f8e31356-5036-46ea-82a2-b1b967f037a8",
+                "dd0acf8d-be93-4fb0-a92d-8e1db735d217",
+                "347c7317-78da-469b-a3d2-59927266525c"
+            ],
+            "created_at": "2025-03-19T12:55:42.136248"
+        }
+    }
+}

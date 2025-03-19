@@ -1,0 +1,6 @@
+2025-03-19 13:27:00,302 - GTools.menu - INFO - Logging initialized for GTools.menu
+2025-03-19 13:27:00,303 - GTools.menu - INFO - Log file: C:\Users\gmorin\.nuke\GTools\logs\gtools.menu_20250319_132700.log
+2025-03-19 13:27:00,304 - GTools.menu - INFO - Loading GTools menu integration
+2025-03-19 13:27:00,308 - GTools.menu - INFO - Successfully registered panel with ID: com.gmorin.gtools.shelf
+2025-03-19 13:27:00,312 - GTools.menu - WARNING - Failed to register custom nodes: cannot import name 'register_nodes' from 'src.nodes' (unknown location)
+2025-03-19 13:27:00,313 - GTools.menu - INFO - GTools menu integration completed

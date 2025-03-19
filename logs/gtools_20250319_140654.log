@@ -1,0 +1,43 @@
+2025-03-19 14:06:54,381 - GTools - INFO - Logging initialized for GTools
+2025-03-19 14:06:54,381 - GTools - INFO - Log file: C:\Users\gmorin\.nuke\GTools\logs\gtools_20250319_140654.log
+2025-03-19 14:06:54,381 - GTools - INFO - Initializing GTools package
+2025-03-19 14:06:54,382 - GTools - INFO - Running in Nuke: True
+2025-03-19 14:06:54,382 - GTools - INFO - GTools root directory: C:\Users\gmorin\.nuke\GTools
+2025-03-19 14:06:54,383 - GTools.menu - INFO - Logging initialized for GTools.menu
+2025-03-19 14:06:54,384 - GTools.menu - INFO - Log file: C:\Users\gmorin\.nuke\GTools\logs\gtools.menu_20250319_140654.log
+2025-03-19 14:06:54,384 - GTools.menu - INFO - Loading GTools menu integration
+2025-03-19 14:06:54,389 - GTools.menu - INFO - Successfully registered panel with ID: com.gmorin.gtools.shelf
+2025-03-19 14:06:54,394 - GTools.menu - WARNING - Failed to register custom nodes: cannot import name 'register_nodes' from 'src.nodes' (unknown location)
+2025-03-19 14:06:54,395 - GTools.menu - INFO - GTools menu integration completed
+2025-03-19 14:07:03,362 - GTools.Tool - INFO - Logging initialized for GTools.Tool
+2025-03-19 14:07:03,363 - GTools.Tool - INFO - Log file: C:\Users\gmorin\.nuke\GTools\logs\gtools.tool_20250319_140703.log
+2025-03-19 14:07:03,373 - GTools.ToolLibrary - INFO - Logging initialized for GTools.ToolLibrary
+2025-03-19 14:07:03,374 - GTools.ToolLibrary - INFO - Log file: C:\Users\gmorin\.nuke\GTools\logs\gtools.toollibrary_20250319_140703.log
+2025-03-19 14:07:03,414 - GTools.FileStorage - DEBUG - Tool library path: C:\Users\gmorin\.nuke\GTools\tool_library.json
+2025-03-19 14:07:03,417 - GTools.FileStorage - DEBUG - Created directory: C:\Users\gmorin\.nuke\GTools
+2025-03-19 14:07:03,418 - GTools.FileStorage - DEBUG - Loading tool library from: C:\Users\gmorin\.nuke\GTools\tool_library.json
+2025-03-19 14:07:03,421 - GTools.FileStorage - INFO - Loaded 13 tools and 3 toolsets
+2025-03-19 14:07:03,422 - GTools.Tool - DEBUG - Created Tool: Open Script Directory (ID: 957c8619-84b0-4c19-a372-a94257b35fda, module: src.functions.file_ops, function: open_current_nuke_script_dir)
+2025-03-19 14:07:03,423 - GTools.Tool - DEBUG - Created Tool: Align X (ID: b6158167-7edc-4beb-8684-fcd0fb3f7b1c, module: src.functions.node_arrangement, function: align_x_pos)
+2025-03-19 14:07:03,423 - GTools.Tool - DEBUG - Created Tool: Align Y (ID: 7481392d-e578-4d85-9c20-da03654d079f, module: src.functions.node_arrangement, function: align_y_pos)
+2025-03-19 14:07:03,424 - GTools.Tool - DEBUG - Created Tool: Enable Postage Stamp (ID: 92d11c5d-27c4-4d73-8bb4-637e47e66d80, module: src.functions.node_arrangement, function: enable_postage_stamp)
+2025-03-19 14:07:03,424 - GTools.Tool - DEBUG - Created Tool: Disable Postage Stamp (ID: 9aa9fed6-5b4d-4dee-a67c-261af10f6b8b, module: src.functions.node_arrangement, function: disable_postage_stamp)
+2025-03-19 14:07:03,425 - GTools.Tool - DEBUG - Created Tool: Split Frequencies (ID: 087c77e4-8422-45a6-a948-c0e4f39ea3fe, module: src.functions.channel_utils, function: split_frequencies_from_selected_node)
+2025-03-19 14:07:03,426 - GTools.Tool - DEBUG - Created Tool: Red Constant (ID: 1c951c2e-d7b4-4950-8a97-8afc452d45a0, module: src.functions.channel_utils, function: red_constant)
+2025-03-19 14:07:03,427 - GTools.Tool - DEBUG - Created Tool: Green Constant (ID: 9e69586e-37e8-44be-95e5-d6e8c56271d1, module: src.functions.channel_utils, function: green_constant)
+2025-03-19 14:07:03,430 - GTools.Tool - DEBUG - Created Tool: Blue Constant (ID: 809e1a6d-581a-4d96-ab9e-9cbbe06680c8, module: src.functions.channel_utils, function: blue_constant)
+2025-03-19 14:07:03,430 - GTools.Tool - DEBUG - Created Tool: Grey Constant (ID: 5ef4bd41-7e5a-4a40-b52f-f07fa832561c, module: src.functions.channel_utils, function: grey_constant)
+2025-03-19 14:07:03,431 - GTools.Tool - DEBUG - Created Tool: Alpha Constant (ID: 02cd00bb-d99d-40a7-9271-be98bda44e2b, module: src.functions.channel_utils, function: alpha_constant)
+2025-03-19 14:07:03,432 - GTools.Tool - DEBUG - Created Tool: Checkerboard (ID: 54d73e5b-c07c-4cb5-abdc-ef2fd750edf1, module: src.functions.channel_utils, function: create_checkerboard)
+2025-03-19 14:07:03,433 - GTools.Tool - DEBUG - Created Tool: Random Constant (ID: 3427dd92-a58a-4028-bed3-ec0c0ef65fe0, module: src.functions.effects, function: random_primary_color)
+2025-03-19 14:07:03,433 - GTools.ToolLibrary - INFO - Library loaded with 13 tools and 3 toolsets
+2025-03-19 14:07:03,439 - GTools.ToolLibrary - DEBUG - Retrieving toolsets. Total count: 3
+2025-03-19 14:07:03,440 - GTools.ToolLibrary - DEBUG - Toolset ID: f7dfab93-c1e1-4e19-b481-66cd03a1c7ae
+2025-03-19 14:07:03,441 - GTools.ToolLibrary - DEBUG - Toolset Name: Default
+2025-03-19 14:07:03,442 - GTools.ToolLibrary - DEBUG - Tools in toolset: ['8d5092b2-9127-4b16-9531-040f25299f1f', 'd869f701-0a60-40c1-b02b-3a48e5b2688f', 'a817bd25-bea1-4463-add9-a77caed5a243', 'e9df55e4-0de3-4bcf-8aa1-f84b984412e2', '79eb38ae-7436-4881-82af-0a9c211d8b30']
+2025-03-19 14:07:03,443 - GTools.ToolLibrary - DEBUG - Toolset ID: ca221c02-15bd-4ee6-95cc-d08364baa3d3
+2025-03-19 14:07:03,446 - GTools.ToolLibrary - DEBUG - Toolset Name: File
+2025-03-19 14:07:03,446 - GTools.ToolLibrary - DEBUG - Tools in toolset: ['b498a2f2-415d-4ca8-999e-e0ba2ae3c8ae']
+2025-03-19 14:07:03,447 - GTools.ToolLibrary - DEBUG - Toolset ID: 9f25d7c6-c7a3-4aa7-8637-101d842c7a40
+2025-03-19 14:07:03,448 - GTools.ToolLibrary - DEBUG - Toolset Name: Node
+2025-03-19 14:07:03,449 - GTools.ToolLibrary - DEBUG - Tools in toolset: ['130e1a75-5436-4f36-b7b7-525476f971c0', '4b481f76-013b-46af-a81b-204539cba4be', '7cf0705a-3d87-494a-9366-56af1c1fa41f', '3df553dc-4762-4b65-9f57-b56d663a5210', 'f8e31356-5036-46ea-82a2-b1b967f037a8', 'dd0acf8d-be93-4fb0-a92d-8e1db735d217', '347c7317-78da-469b-a3d2-59927266525c']

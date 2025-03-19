@@ -1,0 +1,15 @@
+2025-03-19 14:07:03,362 - GTools.Tool - INFO - Logging initialized for GTools.Tool
+2025-03-19 14:07:03,363 - GTools.Tool - INFO - Log file: C:\Users\gmorin\.nuke\GTools\logs\gtools.tool_20250319_140703.log
+2025-03-19 14:07:03,422 - GTools.Tool - DEBUG - Created Tool: Open Script Directory (ID: 957c8619-84b0-4c19-a372-a94257b35fda, module: src.functions.file_ops, function: open_current_nuke_script_dir)
+2025-03-19 14:07:03,423 - GTools.Tool - DEBUG - Created Tool: Align X (ID: b6158167-7edc-4beb-8684-fcd0fb3f7b1c, module: src.functions.node_arrangement, function: align_x_pos)
+2025-03-19 14:07:03,423 - GTools.Tool - DEBUG - Created Tool: Align Y (ID: 7481392d-e578-4d85-9c20-da03654d079f, module: src.functions.node_arrangement, function: align_y_pos)
+2025-03-19 14:07:03,424 - GTools.Tool - DEBUG - Created Tool: Enable Postage Stamp (ID: 92d11c5d-27c4-4d73-8bb4-637e47e66d80, module: src.functions.node_arrangement, function: enable_postage_stamp)
+2025-03-19 14:07:03,424 - GTools.Tool - DEBUG - Created Tool: Disable Postage Stamp (ID: 9aa9fed6-5b4d-4dee-a67c-261af10f6b8b, module: src.functions.node_arrangement, function: disable_postage_stamp)
+2025-03-19 14:07:03,425 - GTools.Tool - DEBUG - Created Tool: Split Frequencies (ID: 087c77e4-8422-45a6-a948-c0e4f39ea3fe, module: src.functions.channel_utils, function: split_frequencies_from_selected_node)
+2025-03-19 14:07:03,426 - GTools.Tool - DEBUG - Created Tool: Red Constant (ID: 1c951c2e-d7b4-4950-8a97-8afc452d45a0, module: src.functions.channel_utils, function: red_constant)
+2025-03-19 14:07:03,427 - GTools.Tool - DEBUG - Created Tool: Green Constant (ID: 9e69586e-37e8-44be-95e5-d6e8c56271d1, module: src.functions.channel_utils, function: green_constant)
+2025-03-19 14:07:03,430 - GTools.Tool - DEBUG - Created Tool: Blue Constant (ID: 809e1a6d-581a-4d96-ab9e-9cbbe06680c8, module: src.functions.channel_utils, function: blue_constant)
+2025-03-19 14:07:03,430 - GTools.Tool - DEBUG - Created Tool: Grey Constant (ID: 5ef4bd41-7e5a-4a40-b52f-f07fa832561c, module: src.functions.channel_utils, function: grey_constant)
+2025-03-19 14:07:03,431 - GTools.Tool - DEBUG - Created Tool: Alpha Constant (ID: 02cd00bb-d99d-40a7-9271-be98bda44e2b, module: src.functions.channel_utils, function: alpha_constant)
+2025-03-19 14:07:03,432 - GTools.Tool - DEBUG - Created Tool: Checkerboard (ID: 54d73e5b-c07c-4cb5-abdc-ef2fd750edf1, module: src.functions.channel_utils, function: create_checkerboard)
+2025-03-19 14:07:03,433 - GTools.Tool - DEBUG - Created Tool: Random Constant (ID: 3427dd92-a58a-4028-bed3-ec0c0ef65fe0, module: src.functions.effects, function: random_primary_color)

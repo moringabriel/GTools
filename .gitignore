@@ -1,0 +1,10 @@
+/to_clean/
+/tests/
+/__init__.py
+/AAA.py
+/BBB.py
+/clean_up_folders.py
+/menu.py
+/notes
+/setup.py
+/venv/
