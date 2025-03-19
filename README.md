@@ -1,5 +1,8 @@
 # GTool Shelf: Your Centralized Nuke Tool Management Hub
 
+![Backup Config](./Screenshots/backup_config.png)
+
+
 ## Overview
 GTool Shelf is a comprehensive Nuke addon designed to revolutionize how compositors manage and access their tools. It provides a dynamic, customizable PySide panel that functions as a powerful tool shelf, empowering artists to organize and centralize their diverse collection of Nuke tools, scripts, and gizmos. While GTool Shelf includes a set of default productivity tools, its primary purpose is to enable artists to create a personalized tool management system.
 
