@@ -1,6 +1,7 @@
 # GTool Shelf: Your Centralized Nuke Tool Management Hub
 
-![Backup Config](./Screenshots/backup_config.png)
+![GTool_Shelf](./screenshots/GTool_Shelf.PNG)
+
 
 
 ## Overview
